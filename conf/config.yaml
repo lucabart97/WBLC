@@ -1,0 +1,5 @@
+path: ../modenaDataset/
+maxD: 0.4
+maxN: 15
+W: 250
+minCluster: 20
