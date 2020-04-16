@@ -59,7 +59,7 @@ void WBLC::clustering(Eigen::MatrixXf* points, int dim){
                 neighbourPoints(this->queue[this->queueElements]);
             }
 
-            if(this->clusterLenght  > this->minDimCluster){
+            if(this->clusterLenght  >= this->minDimCluster){
 
                 this->NCluster++;
             }else{
