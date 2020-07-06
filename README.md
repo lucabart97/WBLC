@@ -1,5 +1,10 @@
 # WBLC
 
+```
+Accepted paper @ IRC 2020, will soon be published.
+M. Verucchi, L. Bartoli, F. Bagni, F. Gatti, P. Burgio and M. Bertogna, "Real-Time clustering and LiDAR-camera fusion on embedded platforms for self-driving cars",  in proceedings in IEEE Robotic Computing (2020)
+```
+
 ## Dependencies
 
 CUDA9.0+, Eigen and yaml. 
